@@ -1,16 +1,13 @@
+# Oi, eu sou o Ewerton Siqueira 👋
 
+Desenvolvedor focado em **JavaScript** e no ecossistema **Vue/Nuxt**, criando interfaces modernas e aplicações web bem estruturadas.
 
-<!--
-**ewertonsiqueira/ewertonsiqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias
+- **JavaScript**
+- **Vue.js**
+- **Nuxt**
+- **Vuetify**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Vamos nos conectar
+- LinkedIn: https://www.linkedin.com/in/ewerton-siqueira-173b981aa/
+- Email: ewertoncostaxx@hotmail.com
