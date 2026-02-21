@@ -8,6 +8,6 @@ Desenvolvedor focado em **JavaScript** e no ecossistema **Vue/Nuxt**, criando in
 - **Nuxt**
 - **Vuetify**
 
-## Vamos nos conectar
+## Contato
 - LinkedIn: https://www.linkedin.com/in/ewerton-siqueira-173b981aa/
 - Email: ewertoncostaxx@hotmail.com
